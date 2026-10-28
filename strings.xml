@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DIPU MAHTO APP LOCK</string>
+    <string name="accessibility_description">Detects when a selected app is opened so the app lock screen can appear.</string>
+</resources>
